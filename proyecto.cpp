@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <SFML/Graphics.hpp>
 using namespace std;
+//confirmen
 
 // Estructuras globales para mantener la info
 float precioMesa, precioSilla;
